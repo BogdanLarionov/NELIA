@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  /* color: black; */
+  padding: 20px 10px;
+  /* color:aqua; */
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #6d00d3;
+  padding: 0 40px;
+}
+
+.logo,
+.account {
+  color: aqua;
+}
+
+.logo {
+  font-size: 30px;
+}
+
+.account {
+  font-size: 24px;
+}
+
+.menu_item {
+  color: aqua;
+  font-size: 19px;
+}
+
+.menu_item:hover {
+  color: orange;
+}
+
+.div_item {
+  width: 200px;
+  height: 300px;
+  border: 1px solid black;
+}
+
+.new_films {
+  display: flex;
+  text-justify: space-between;
+}
+
+

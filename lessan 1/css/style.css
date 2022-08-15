@@ -1,0 +1,32 @@
+h1{
+          color:red;
+}
+
+/*p{
+          color: green;
+}
+*/
+a{
+          background-color: yellow;
+
+}
+
+.green {
+          color: green;
+}
+
+.blue{
+          color: blue;
+}
+
+.background-color {
+          background-color: lightpink;
+}
+
+.font-size-large{
+          font-size: 36px;
+}
+
+#forth_p {
+          background-color: blueviolet;
+}
